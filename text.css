@@ -27,7 +27,10 @@ html {
     background-size: 100%;
 
   }
-  
+  #logo {
+    width: 200px;
+    height: 100px;
+  }
   #login-error-msg-holder {
     width: 100%;
     height: 100%;
