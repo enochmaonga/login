@@ -6,11 +6,10 @@ html {
   body {
     height: 100%;
     margin: 0;
-    font-family: Arial, Helvetica, sans-serif;
     display: grid;
     justify-items: center;
     align-items: center;
-    background-color: #76f56d;
+    background-color: #b5efb1;
   }
   
   #main-holder {
@@ -87,3 +86,7 @@ html {
     cursor: pointer;
     outline: none;
   }
+  /* #heading {
+    width:50%;
+    height:30%;
+  } */
