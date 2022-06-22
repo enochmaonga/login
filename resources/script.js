@@ -12,4 +12,4 @@ loginButton.addEventListener("click", (e) => {
     } else {
         loginErrorMsg.style.opacity = 1;
     }
-})
+});
